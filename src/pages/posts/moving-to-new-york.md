@@ -13,7 +13,6 @@ thumb_img_alt: Brooklyn Bridge at daytime
 content_img_path: images/friendly-strawberry.jpeg
 seo:
   title: Blog TItle Here
-  description: A cautionary tale about life in New York
   extra:
     - name: 'og:type'
       value: article
