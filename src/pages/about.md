@@ -3,7 +3,7 @@ title: About Me
 subtitle: I am Motiur Rahman Ibn Abdul Hakim
 img_path: images/great-thyme.jpg
 seo:
-  title: About Me
+  title: About - Sheikh Motiur Rahman
   description: A page about me and my work
   extra:
     - name: 'og:type'
