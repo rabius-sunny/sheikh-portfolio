@@ -13,7 +13,7 @@ date: '2020-01-11'
 thumb_img_path: images/book1.jpg
 thumb_img_alt: A red fox sitting on a meadow
 seo:
-  title: Fox Village In Japan
+  title: Blog TItle Here
   description: >-
     Apparently, Japan is covered in magical and irresistibly cute animal
     sanctuaries.
