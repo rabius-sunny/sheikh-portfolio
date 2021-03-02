@@ -10,7 +10,6 @@ thumb_img_alt: Icelandic horses
 hide_header: false
 seo:
   title: Blog TItle Here
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   extra:
     - name: 'og:type'
       value: article
