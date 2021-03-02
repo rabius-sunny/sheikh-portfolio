@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 'I am Motiur Rahman '
+subtitle: I am Motiur Rahman Ibn Abdul Hakim
 img_path: images/about.jpg
 seo:
   title: About Me
