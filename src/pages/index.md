@@ -13,7 +13,7 @@ seo:
       value: Sheikh Motiur Rahman
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: Sheikh Motiur Rahman
       keyName: property
     - name: 'og:image'
       value: /images/majestic-eggplant.jpg
