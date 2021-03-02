@@ -6,7 +6,6 @@ subtitle: >-
 img_path: images/magical-sparrow.jpg
 seo:
   title: Study Guide - Sheikh Motiur Rahman
-  description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
       value: website
