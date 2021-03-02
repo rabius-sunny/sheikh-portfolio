@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:description'
       value: Sheikh Motiur Rahman
     - name: 'twitter:image'
-      value: images/home.jpg
+      value: /images/maroon-jupiter.jpg
       relativeUrl: true
 template: home
 ---
