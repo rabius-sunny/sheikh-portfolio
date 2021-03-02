@@ -9,7 +9,7 @@ thumb_img_path: images/book2.jpeg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 content_img_path: images/neat-bee.jpeg
 seo:
-  title: Basic Rules For Walking In The Mountains
+  title: Blog TItle Here
   description: >-
     Hiking refers to difficult walking through dense forest, undergrowth, or
     bushes.
