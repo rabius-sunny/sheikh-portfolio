@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Sheikh Motiur Rahman
-  description: The preview of the Fjord theme
+  description: Website of Sheikh Motiur Rahman
   extra:
     - name: 'og:type'
       value: website
