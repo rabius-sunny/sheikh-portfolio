@@ -59,6 +59,7 @@ seo:
       value: images/contact.jpg
       relativeUrl: true
 template: contact
+subtitle: You can ask your question through zoom app
 ---
 
 To get in touch fill the form below.
